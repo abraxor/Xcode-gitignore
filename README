@@ -1,0 +1,6 @@
+An empty git project with a .gitignore suitable for Xcode projects.
+
+Just clone using "git clone git@github.com:abraxor/Xcode-gitignore.git".
+You'll have a directory "Xcode-gitignore". 
+Rename as required.
+Start up Xcode and you're ready to commit. 
