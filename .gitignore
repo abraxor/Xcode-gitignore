@@ -5,15 +5,12 @@
 build/
 adhoc/
 
-*.pbxuser
-*.perspective
-*.perspectivev3
+.xcodeproj/ !*.xcodeproj/project.pbxproj
 
 *.mode1v3
 *.mode2v3
 
-build/Debug-*
-build/*-iphonesimulator
+build/
 
-*/project.xcworkspace/*
-*/xcuserdata/*
+xcuserdata
+
